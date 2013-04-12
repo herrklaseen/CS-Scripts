@@ -1,7 +1,7 @@
 CS-Scripts
 ==========
 
-Various JavaScripts to simpify tedious tasks in Adobe Creative Suite
+Various JavaScripts to simpify tedious tasks in Adobe Creative Suite.
 
 # Installation of script files
 
@@ -11,8 +11,8 @@ If you want the script to be available from File > Scripts place the .jsx file i
  
 `Adobe Illustrator CS6/Presets/[language_dir e.g. 'en_US']/Scripts/`
 
-# Running script
+# Running scripts
 
-## Illustrator CS 6
+## Illustrator CS6
 
 If installed in the above location, just go to File menu, Scripts and choose the script to run.
