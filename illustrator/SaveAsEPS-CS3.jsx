@@ -1,6 +1,6 @@
 /**********************************************************
  
-SaveAsEPS-CS2.jsx
+SaveAsEPS-CS3.jsx
 
 DESCRIPTION
 
@@ -22,7 +22,7 @@ Feel free to copy, modify and use.
 var destFolder, sourceFolder, files, fileType, sourceDoc, targetFile, epsSaveOpts;
 
 // Select the source folder.
-sourceFolder = Folder.selectDialog('Select the folder with EPS files you want to re-save to EPS v CS2', '~');
+sourceFolder = Folder.selectDialog('Select the folder with EPS files you want to re-save to EPS v CS3', '~');
 
 // If a valid folder is selected
 if (sourceFolder != null) {
