@@ -6,7 +6,7 @@ DESCRIPTION
 
 This script gets files specified by the user from the 
 selected folder, creates outlines of all text and saves them 
-as EPS version CS2 with the same file name in the user 
+as EPS version CS3 with the same file name in the user 
 desired destination. It was designed for use with EPS-files
 exported from InDesign, but should work on other files as well.
 
